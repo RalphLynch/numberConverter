@@ -19,10 +19,10 @@ public class Main {
     }
 
     public static String denaryToBinary (int denaryInput) {
-        String denary = Integer.toString(denaryInput);
+        String denaryString = Integer.toString(denaryInput);
 
-        for (int i = 0; i < denary.length(); i++) {
-            
+        for (int i = 0; i < denaryString.length(); i++) {
+            denaryString
         }
     }
 
